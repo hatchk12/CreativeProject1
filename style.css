@@ -68,11 +68,13 @@ h1{
 
 p {
   text-align: center;
-  margin:70px;
+  margin:100px;
 }
 
 img{
-  width:80%;
+  width:50%;
+  margin-left: 25%;
+  ;
 }
 
 
