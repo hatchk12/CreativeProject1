@@ -1,0 +1,80 @@
+/*9F4298 / CFDB31 / D1AFD3 / E6E7E8 */
+body{
+  font-family: cursive;
+  background-color: #E6E7E8;
+}
+
+.bg-light {
+  background-color: #D1AFD3 !important;
+}
+
+form-control:active{
+    border-color: black;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.btn{
+    color:black;
+    border-color: black;
+}
+
+.btn:hover{
+    color:black;
+    background-color: #E6E7E8;
+    border-color: #E6E7E8;
+}
+
+h1{
+    border-top-width:50px;
+    text-align: center;
+}
+
+
+.footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    color:black;
+    text-align: center;
+    background-color: #D1AFD3;
+}
+
+.centered{
+  position: absolute;
+  top:15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 32px;
+}
+
+.homeimg{
+  display:block;
+    width:71%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+  text-align: center;
+  margin:70px;
+}
+
+img{
+  width:80%;
+}
+
+
+
+   
